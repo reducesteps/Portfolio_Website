@@ -1,0 +1,10 @@
+/* Custom CSS for Portfolio Website */
+.glowing-border {
+  box-shadow: 0 0 10px blue;
+}
+.draggable {
+  cursor: grab;
+}
+.draggable:active {
+  cursor: grabbing;
+}
